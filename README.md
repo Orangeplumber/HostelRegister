@@ -15,7 +15,7 @@ It will be managed by the Hostel Management.
 # How to Run It?
 1. Go to the directory
 2. Run following Commands in Linux terminal:
-	a) npm install
+	a) npm install	
 	b) sudo service mongod start
 	c) sudo mongo
 	d) node server
