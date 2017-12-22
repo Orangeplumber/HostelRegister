@@ -15,7 +15,7 @@
 ### How to Run It?
 1. Go to the directory
 2. Run following Commands in Linux terminal:
-	- npm install	
-	- sudo service mongod start
-	- sudo mongo
-	- node server
+	- ``npm install``	
+	- ``sudo service mongod start``
+	- ``sudo mongo``
+	- ``node server``
