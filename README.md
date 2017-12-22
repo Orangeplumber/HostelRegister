@@ -1,18 +1,18 @@
 # HostelRegister
 
-# Problem:
+## Problem:
 - To File any complaint, Hostellers have to go the office and manually do it!
 
-# Solution:
+## Solution:
 - This website on the Hostel-wifi will help to file complaint.
 - It will be managed by the Hostel Management.
 
-# Softwares needed:
+### Softwares needed:
 - npm 
 - node
 - mongodb 
 
-# How to Run It?
+### How to Run It?
 1. Go to the directory
 2. Run following Commands in Linux terminal:
 	- npm install	
